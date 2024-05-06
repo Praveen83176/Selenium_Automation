@@ -1,0 +1,23 @@
+name = venkatesh
+age = 25
+
+
+url = http://www.facebook.com
+browser = Chrome
+
+username = test@12gmail.com
+password=12345
+
+######## Login Page Test Data ########
+FirstName = venki
+LastName = Testing
+
+####### Login Page Object Repository #########
+FirstName_Xpath = //*[@id='email']
+LastName_Xpath = //*[@id='pass']
+
+######## Register Page Object Repository ######
+Create_Xpath = //a[@class='_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy']
+Month_Css = select#month
+
+
